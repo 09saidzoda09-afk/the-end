@@ -1696,4 +1696,64 @@ br{
     font-size: 16px;
 }
 
+/* ===== кто ки ми ===== */
+.kimoem{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.box43{
+    width: 100%;
+    padding: 0 20px;
+    gap: 25px;
+}
+.text43{
+    font-size: 24px;
+    text-align: center;
+}
+.box44{
+    flex-direction: column;
+    gap: 20px;
+}
+.img12{
+    width: 100%;
+    height: auto;
+}
+.box45{
+    width: 100%;
+    gap: 15px;
+}
+.text44{
+    font-size: 14px;
+    text-align: center;
+}
+.box46{
+    flex-direction: column-reverse;
+    gap: 20px;
+    padding: 20px;
+}
+.img13{
+    width: 100%;
+    height: auto;
+}
+.box47{
+    width: 100%;
+    gap: 15px;
+}
+.text45{
+    font-size: 14px;
+}
+.text46{
+    font-size: 16px;
+}
+.text47{
+    font-size: 14px;
+}
+.box48{
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.img14{
+    width: calc(50% - 5px);
+    height: auto;
+}
 }
