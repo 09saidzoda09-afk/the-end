@@ -507,4 +507,78 @@ width: 392px;
     border-radius: 50%;
 }
 
-  
+       /* бахши барнома */
+
+.programma{
+    width: 1660px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+.box27{
+    width: 1216px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.text25{
+    font-size: 36px;
+    font-weight: 700;
+    color: #1178B2;
+    margin-bottom: 15px;
+}
+.box28{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 20px 25px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 0 8px 4px rgba(128, 128, 128, 0.192);
+}
+.box29{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box30{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.text26{
+    font-size: 18px;
+    font-weight: 700;
+    color: #1178B2;
+}
+.text27{
+    font-size: 18px;
+    font-weight: 500;
+    color: #000000;
+}
+.ico2{
+    font-size: 20px;
+    color: #3D7BF7;
+}
+.text28{
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+}
+.text29{
+    font-size: 16px;
+    font-weight: 500;
+    color: #3D7BF7;
+}
+.but8{
+    width: 326px;
+    height: 70px;
+    margin-top: 15px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: #1178B2;
+    border-radius: 10px;
+}
+
+   
