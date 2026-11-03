@@ -960,4 +960,101 @@ width: 392px;
     height: 50px;
 }
 
-     
+       /* сообщество */
+
+.hamkor{
+    width: 1660px;
+    height: 563px;
+    margin: auto;
+    margin-bottom: 80px;
+    background-image: url(./Rectangle\ 1992.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box55{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    text-align: center;
+}
+.text51{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+.text52{
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
+.but11{
+    width: 280px;
+    height: 70px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: #3D8BFF;
+    border-radius: 10px;
+}
+
+       /* мероприятия */
+
+.tadbir{
+    width: 1660px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+.box56{
+    width: 1216px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.text53{
+    font-size: 36px;
+    font-weight: 700;
+    color: #1178B2;
+}
+.box57{
+    display: flex;
+    gap: 20px;
+}
+.box58{
+    width: 392px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px 4px rgba(128, 128, 128, 0.192);
+}
+.img17{
+    width: 392px;
+    height: 200px;
+    border-radius: 10px 10px 0 0;
+}
+.box59{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding: 20px;
+}
+.text54{
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+}
+.text55{
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+}
+.text56{
+    font-size: 14px;
+    font-weight: 400;
+    color: #999999;
+}
+
+    
