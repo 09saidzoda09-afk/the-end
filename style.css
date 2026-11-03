@@ -1755,5 +1755,51 @@ br{
 .img14{
     width: calc(50% - 5px);
     height: auto;
+}/* ===== експерт ===== */
+.ekspert{
+    width: 100%;
+    margin-bottom: 40px;
 }
+.box49{
+    width: 100%;
+    padding: 0 20px;
+    gap: 20px;
+}
+.text48{
+    font-size: 24px;
+    text-align: center;
+}
+.box50{
+    flex-direction: column;
+    gap: 25px;
+    margin-bottom: 20px;
+}
+.box51{
+    display: none;
+}
+.box52{
+    width: 100%;
+}
+.img15{
+    width: 100px;
+    height: 100px;
+}
+.text49{
+    font-size: 18px;
+}
+.text50{
+    font-size: 13px;
+}
+.box53{
+    gap: 10px;
+}
+.box54{
+    width: calc(50% - 5px);
+    height: 70px;
+}
+.img16{
+    width: 110px;
+    height: 35px;
+}
+
 }
