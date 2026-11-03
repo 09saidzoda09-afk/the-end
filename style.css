@@ -1146,4 +1146,56 @@ width: 392px;
     border-radius: 10px;
 }
 
-   
+       /* футер */
+
+.pastki{
+    width: 1660px;
+    height: 145px;
+    margin: auto;
+    background-image: url(./Group\ 870.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.box65{
+    width: 1216px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.img18{
+    width: 140px;
+}
+.box66{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.text61{
+    font-size: 12px;
+    font-weight: 400;
+    color: white;
+}
+.box67{
+    display: flex;
+    gap: 30px;
+}
+.text62{
+    font-size: 16px;
+    font-weight: 500;
+    color: white;
+}
+.box68{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.text63{
+    font-size: 14px;
+    font-weight: 400;
+    color: white;
+} 
