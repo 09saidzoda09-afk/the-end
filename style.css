@@ -702,4 +702,95 @@ width: 392px;
     color: #555555;
 }
 
- 
+    /* бахши нарх */
+
+.narx{
+    width: 1660px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+.box38{
+    width: 1216px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.text36{
+    font-size: 36px;
+    font-weight: 700;
+    color: #1178B2;
+}
+.box39{
+    display: flex;
+    gap: 20px;
+}
+.box40{
+    width: 392px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    padding: 30px 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px 4px rgba(128, 128, 128, 0.192);
+}
+.img11{
+    width: 60px;
+    height: 60px;
+}
+.text37{
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+    text-align: center;
+}
+.text38{
+    width: 100%;
+    font-size: 18px;
+    font-weight: 600;
+    color: #1178B2;
+}
+.box41{
+    width: 100%;
+    height: 170px;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+.text39{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000000;
+}
+.box42{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.text40{
+    font-size: 16px;
+    font-weight: 600;
+    color: #000000;
+}
+.text41{
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+}
+.text42{
+    font-size: 18px;
+    font-weight: 700;
+    color: #1178B2;
+}
+.but10{
+    width: 100%;
+    height: 60px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: #1178B2;
+    border-radius: 10px;
+}
+
+   
