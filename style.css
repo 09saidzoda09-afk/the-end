@@ -793,4 +793,93 @@ width: 392px;
     border-radius: 10px;
 }
 
+       /* кто ми */
+
+.kimoem{
+    width: 1660px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+.box43{
+    width: 1216px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.text43{
+    font-size: 36px;
+    font-weight: 700;
+    color: #1178B2;
+}
+.box44{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+.img12{
+    width: 520px;
+    height: 330px;
+}
+.box45{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.text44{
+    font-size: 18px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 150%;
+}
+.span3{
+    font-weight: 700;
+    color: #1178B2;
+}
+.box46{
+    display: flex;
+    align-items: center;
+    gap: 60px;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px 4px rgba(128, 128, 128, 0.192);
+}
+.img13{
+    width: 360px;
+    height: 340px;
+}
+.box47{
+    width: 700px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.text45{
+    font-size: 18px;
+    font-weight: 400;
+    font-style: italic;
+    color: #000000;
+    line-height: 150%;
+}
+.text46{
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+}
+.text47{
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+}
+.box48{
+    display: flex;
+    gap: 10px;
+}
+.img14{
+    width: 235px;
+    height: 157px;
+    border-radius: 10px;
+}
+
    
