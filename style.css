@@ -581,4 +581,72 @@ width: 392px;
     border-radius: 10px;
 }
 
-   
+       /* бахши инвесторон */
+
+.investor{
+    width: 1660px;
+    height: 500px;
+    margin: auto;
+    margin-bottom: 80px;
+    background-color: #3D8BFF;
+    background-image: url(./Group\ 815.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+.box31{
+    width: 1216px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.box32{
+    width: 560px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.text30{
+    font-size: 40px;
+    font-weight: 700;
+    color: white;
+}
+.text31{
+    font-size: 18px;
+    font-weight: 400;
+    color: white;
+    line-height: 150%;
+}
+.but9{
+    width: 326px;
+    height: 70px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: #07AF91;
+    border-radius: 10px;
+}
+.box33{
+    width: 460px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.box34{
+    width: 220px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+}
+.img10{
+    width: 150px;
+    height: 50px;
+}
+
+  
