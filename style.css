@@ -1862,4 +1862,80 @@ br{
     font-size: 11px;
 }
 
+/* ===== аопроси ===== */
+.savol{
+    width: 100%;
+    height: auto;
+    padding: 40px 0;
+}
+.box60{
+    width: 100%;
+    flex-direction: column;
+    gap: 30px;
+    padding: 0 20px;
+}
+.box61{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+.text57{
+    font-size: 24px;
+}
+.text58{
+    font-size: 14px;
+}
+.text59{
+    font-size: 16px;
+    margin-top: 20px;
+}
+.box62{
+    justify-content: center;
+    gap: 25px;
+}
+.box63{
+    flex-direction: column;
+    gap: 5px;
+}
+.ico3{
+    font-size: 30px;
+}
+.text60{
+    font-size: 14px;
+}
+.box64{
+    width: 100%;
+    padding: 20px;
+}
+.but12{
+    width: 100%;
+    height: 55px;
+}
+
+/* ===== ФУТЕР ===== */
+.pastki{
+    width: 100%;
+    height: auto;
+    padding: 25px 0;
+    margin-top: 0;
+}
+.box65{
+    width: 100%;
+    flex-direction: column;
+    gap: 15px;
+    padding: 0 20px;
+}
+.box66{
+    align-items: center;
+}
+.box67{
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+.box68{
+    align-items: center;
+    text-align: center;
+}
+
 }
