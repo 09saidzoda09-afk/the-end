@@ -649,4 +649,57 @@ width: 392px;
     height: 50px;
 }
 
-  
+       /* бахши натичахо */
+
+.rezultat{
+    width: 1660px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+.box35{
+    width: 1216px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.text32{
+    font-size: 36px;
+    font-weight: 700;
+    color: #1178B2;
+}
+.box36{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.box37{
+    width: 392px;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 0 8px 4px rgba(128, 128, 128, 0.192);
+}
+.text33{
+    font-size: 60px;
+    font-weight: 700;
+    color: #7FB5D9;
+}
+.text34{
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+}
+.text35{
+    width: 320px;
+    font-size: 16px;
+    font-weight: 300;
+    color: #555555;
+}
+
+ 
