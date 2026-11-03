@@ -882,4 +882,82 @@ width: 392px;
     border-radius: 10px;
 }
 
-   
+       /* эксперт и партнери */
+
+.ekspert{
+    width: 1660px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+.box49{
+    width: 1216px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.text48{
+    font-size: 36px;
+    font-weight: 700;
+    color: #1178B2;
+}
+.box50{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.box51{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    color: white;
+    background-color: #1178B2;
+    border-radius: 50%;
+}
+.box52{
+    width: 260px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 12px;
+    text-align: center;
+}
+.img15{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+}
+.text49{
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+}
+.text50{
+    font-size: 14px;
+    font-weight: 400;
+    color: #555555;
+}
+.box53{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.box54{
+    width: 289px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    box-shadow: 0 0 8px 4px rgba(128, 128, 128, 0.192);
+}
+.img16{
+    width: 160px;
+    height: 50px;
+}
+
+     
