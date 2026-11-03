@@ -425,4 +425,86 @@ width: 392px;
     color: white;
 }
 
+       /* бахши акселератор */
+
+.akselerator{
+    width: 1660px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+.box23{
+    width: 1216px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.text20{
+    font-size: 36px;
+    font-weight: 700;
+    color: #1178B2;
+}
+.text21{
+    font-size: 20px;
+    font-weight: 300;
+    color: #000000;
+    line-height: 150%;
+}
+.box24{
+    display: flex;
+    gap: 20px;
+}
+.box25{
+    width: 392px;
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px 4px rgba(128, 128, 128, 0.192);
+}
+.text22{
+    font-size: 70px;
+    font-weight: 700;
+    color: #7FB5D9;
+}
+.img8{
+    width: 80px;
+    height: 80px;
+}
+.img9{
+    width: 80px;
+    height: 80px;
+}
+.text23{
+    font-size: 20px;
+    font-weight: 600;
+    color: #000000;
+}
+.box26{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    background-color: #000000;
+    border-radius: 10px;
+}
+.text24{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+.but7{
+    width: 80px;
+    height: 80px;
+    font-size: 28px;
+    color: white;
+    background-color: #3D7BF7;
+    border-radius: 50%;
+}
+
   
