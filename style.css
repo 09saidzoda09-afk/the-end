@@ -1613,3 +1613,87 @@ br{
     width: 100px;
     height: 35px;
 }
+
+/* ===== натича ===== */
+.rezultat{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.box35{
+    width: 100%;
+    padding: 0 20px;
+    gap: 20px;
+}
+.text32{
+    font-size: 24px;
+    text-align: center;
+}
+.box36{
+    flex-direction: column;
+    gap: 15px;
+}
+.box37{
+    width: 100%;
+    height: auto;
+    padding: 20px 15px;
+}
+.text33{
+    font-size: 40px;
+}
+.text34{
+    font-size: 16px;
+}
+.text35{
+    width: 100%;
+    font-size: 14px;
+}
+
+/* ===== нархнома ===== */
+.narx{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.box38{
+    width: 100%;
+    padding: 0 20px;
+    gap: 20px;
+}
+.text36{
+    font-size: 24px;
+    text-align: center;
+}
+.box39{
+    flex-direction: column;
+    gap: 15px;
+}
+.box40{
+    width: 100%;
+    padding: 25px 15px;
+}
+.box41{
+    height: auto;
+}
+.text37{
+    font-size: 18px;
+}
+.text38{
+    font-size: 16px;
+}
+.text39{
+    font-size: 14px;
+}
+.text40{
+    font-size: 14px;
+}
+.text41{
+    font-size: 14px;
+}
+.text42{
+    font-size: 16px;
+}
+.but10{
+    height: 50px;
+    font-size: 16px;
+}
+
+}
