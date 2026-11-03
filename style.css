@@ -227,4 +227,202 @@ width: 392px;
     color:#000000 ;
 }
 
-    
+       /* одамон сухбат карда истодаанж */
+
+.mardum{
+    width: 1660px;
+    height: 604px;
+    margin: auto;
+    background-image: url(./startup\ 3.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 120px;
+}
+.bax1{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+.tixt1{
+    font-size:40px ;
+    font-weight:700 ;
+    color:#FFFFFF ;
+    background-color: #07AF91;
+    text-align: center
+}
+.tixt2{
+    font-size:24px ;
+    font-weight:500 ;
+    color: white;
+}
+.but5{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+    width: 341px;
+    height: 80px;
+    background-color: #016CA8;
+    border-radius: 10px;
+}
+ 
+   /* бахши бозорхо */
+
+.bozor{
+    width: 1660px;
+    margin: auto;
+    margin-bottom: 80px;
+}
+.box12{
+    width: 1216px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+.text12{
+    font-size: 36px;
+    font-weight: 700;
+    color: #1178B2;
+}
+.box13{
+    display: flex;
+}
+.box14{
+    width: 304px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: #1178B2;
+}
+.box15{
+    width: 304px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    font-weight: 500;
+    color: #555555;
+    background-color: #F1F1F1;
+}
+.box16{
+    display: flex;
+    justify-content: space-between;
+    background-image: url(./map.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box17{
+    width: 560px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.text13{
+    font-size: 32px;
+    font-weight: 700;
+    color: #000000;
+}
+.span2{
+    color: #07AF91;
+}
+.text14{
+    font-size: 18px;
+    font-weight: 400;
+    color: #000000;
+    line-height: 150%;
+}
+.but6{
+    width: 220px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+    background-color: #1178B2;
+    border-radius: 10px;
+}
+.box18{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.img7{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.text15{
+    font-size: 18px;
+    font-weight: 600;
+    color: #000000;
+}
+.text16{
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+}
+.box20{
+    width: 580px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.box21{
+    width: 280px;
+    height: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 8px 4px rgba(128, 128, 128, 0.192);
+    text-align: center;
+}
+.text17{
+    font-size: 40px;
+    font-weight: 700;
+    color: #7FB5D9;
+}
+.text18{
+    font-size: 16px;
+    font-weight: 400;
+    color: #555555;
+}
+.box22{
+    width: 280px;
+    height: 170px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    background-color: #1178B2;
+    border-radius: 10px;
+    text-align: center;
+}
+.ico1{
+    font-size: 30px;
+    color: white;
+}
+.text19{
+    font-size: 18px;
+    font-weight: 600;
+    color: white;
+}
+
+  
