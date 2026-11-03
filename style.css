@@ -1528,4 +1528,88 @@ br{
     font-size: 22px;
 }
 
+/* ===== барнома ===== */
+.programma{
+    width: 100%;
+    margin-bottom: 40px;
+}
+.box27{
+    width: 100%;
+    padding: 0 20px;
+}
+.text25{
+    font-size: 24px;
+    text-align: center;
+}
+.box28{
+    padding: 15px;
+}
+.box29{
+    gap: 10px;
+}
+.box30{
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+}
+.text26{
+    font-size: 14px;
+}
+.text27{
+    font-size: 14px;
+}
+.text28{
+    font-size: 13px;
+}
+.text29{
+    font-size: 13px;
+}
+.but8{
+    width: 100%;
+    height: 55px;
+    font-size: 16px;
+}
+
+/* ===== инвестерон ===== */
+.investor{
+    width: 100%;
+    height: auto;
+    padding: 40px 0;
+    margin-bottom: 40px;
+}
+.box31{
+    width: 100%;
+    flex-direction: column;
+    gap: 30px;
+    padding: 0 20px;
+}
+.box32{
+    width: 100%;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+}
+.text30{
+    font-size: 24px;
+}
+.text31{
+    font-size: 14px;
+}
+.but9{
+    width: 100%;
+    height: 55px;
+    font-size: 16px;
+}
+.box33{
+    width: 100%;
+    justify-content: center;
+    gap: 10px;
+}
+.box34{
+    width: calc(50% - 5px);
+    height: 70px;
+}
+.img10{
+    width: 100px;
+    height: 35px;
 }
